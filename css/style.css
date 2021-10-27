@@ -398,21 +398,21 @@ header{
     margin-bottom: 75px;
 }
 .scr_six .shell{
-    background-image: url("../img/scr_six_img.jpg");
+    background-image: url("../img/scr_six_img.png");
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
     padding: 230px 17px 26px;
 }
 .scr_six .pennzoil{
-    background-image: url("../img/scr_six_img_two.jpg");
+    background-image: url("../img/scr_six_img_two.png");
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
     padding: 230px 17px 26px;
 }
 .scr_six .jiffy{
-    background-image: url("../img/scr_six_img_three.jpg");
+    background-image: url("../img/scr_six_img_three.png");
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
